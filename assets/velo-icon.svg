@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="plasma" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d6c9ff"/>
+      <stop offset="0.5" stop-color="#9b7bff"/>
+      <stop offset="1" stop-color="#6a45f5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#9b7bff" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#9b7bff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- tile -->
+  <rect x="48" y="48" width="928" height="928" rx="168" fill="#0b0b0e"/>
+  <rect x="48" y="48" width="928" height="928" rx="168" fill="url(#glow)"/>
+  <rect x="72" y="72" width="880" height="880" rx="148" fill="none" stroke="#2a2a33" stroke-width="8"/>
+  <!-- exposed-grid corner ticks -->
+  <g stroke="#9b7bff" stroke-width="20" stroke-linecap="square" fill="none">
+    <path d="M196 236V196H236"/>
+    <path d="M788 196H828V236"/>
+    <path d="M828 788V828H788"/>
+    <path d="M236 828H196V788"/>
+  </g>
+  <!-- V: the letter, and a downward chevron -->
+  <path d="M252 268H408L512 548L616 268H772L584 744H440Z" fill="url(#plasma)"/>
+  <!-- baseline -->
+  <rect x="332" y="784" width="360" height="48" fill="#ece6ff"/>
+</svg>
