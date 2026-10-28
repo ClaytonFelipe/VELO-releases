@@ -2,7 +2,7 @@
 
 <img src="assets/social-preview.png" alt="VELO — downloader universal para Windows" width="100%" />
 
-<img src="assets/velo-icon.svg" alt="VELO" width="96" height="96" /> # VELO
+# VELO
 
 **Downloader universal para Windows — vídeos de +1800 sites e qualquer link direto, com aceleração multi-conexão estilo IDM.**
 
@@ -77,3 +77,5 @@ Tudo roda no seu computador. O VELO não tem conta, servidor nem telemetria. Os 
 <div align="center">
 <sub>Este repositório contém apenas as versões publicadas do VELO.<br/>Motores: <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, <a href="https://ffmpeg.org">FFmpeg</a>, <a href="https://aria2.github.io">aria2</a> e <a href="https://deno.com">Deno</a> · feito com <a href="https://tauri.app">Tauri</a></sub>
 </div>
+
+<img src="assets/velo-icon.svg" alt="VELO" width="96" height="96" />
