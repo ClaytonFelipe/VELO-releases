@@ -2,7 +2,7 @@
 
 <img src="assets/social-preview.png" alt="VELO — downloader universal para Windows" width="100%" />
 
-# VELO
+<img src="assets/velo-icon.svg" alt="VELO" width="96" height="96" /> # VELO
 
 **Downloader universal para Windows — vídeos de +1800 sites e qualquer link direto, com aceleração multi-conexão estilo IDM.**
 
@@ -10,7 +10,6 @@
 [![Downloads](https://img.shields.io/github/downloads/ClaytonFelipe/VELO-releases/total?style=flat-square&color=c6f432&label=downloads)](https://github.com/ClaytonFelipe/VELO-releases/releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0d0d10?style=flat-square&logo=windows&logoColor=white)
 
-<img src="assets/velo-icon.svg" alt="VELO" width="96" height="96" />
 
 ### [⬇ Baixar a versão mais recente](https://github.com/ClaytonFelipe/VELO-releases/releases/latest)
 
