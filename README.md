@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/velo-icon.svg" alt="VELO" width="128" height="128" />
+<img src="assets/social-preview.png" alt="VELO — downloader universal para Windows" width="100%" />
 
 # VELO
 
