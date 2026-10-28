@@ -78,4 +78,6 @@ Tudo roda no seu computador. O VELO não tem conta, servidor nem telemetria. Os 
 <sub>Este repositório contém apenas as versões publicadas do VELO.<br/>Motores: <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, <a href="https://ffmpeg.org">FFmpeg</a>, <a href="https://aria2.github.io">aria2</a> e <a href="https://deno.com">Deno</a> · feito com <a href="https://tauri.app">Tauri</a></sub>
 </div>
 
+<div align="center">
 <img src="assets/velo-icon.svg" alt="VELO" width="96" height="96" />
+</div>
